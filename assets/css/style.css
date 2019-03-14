@@ -1,5 +1,14 @@
 * {
     box-sizing: border-box;
-    background-color: aqua;
-    
+
 }
+
+.h1 {
+    text-align: center;
+    text-shadow: 2px;
+    color: ivory;
+    font-size: 24px;
+    background-color: black
+}
+
+
