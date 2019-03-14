@@ -3,12 +3,27 @@
 
 }
 
-.h1 {
+header {
     text-align: center;
     text-shadow: 2px;
     color: ivory;
     font-size: 24px;
-    background-color: black
+    background-color: black;
+    font-family: sans-serif;
+    
 }
+
+.footer {
+    background-color: black;
+    color: whitesmoke;
+    line-height: 18px;
+    border-top: solid 5px;
+    border-color: whitesmoke;
+    font-weight: bolder;
+    text-align: center;
+    bottom: 0px;
+    position: sticky;
+
+}    
 
 
